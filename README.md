@@ -8,5 +8,5 @@ fun main() {
     
     println("Age : $age Th") 
     println("Gender : $gender")
-    println("Not Programmers 👨‍💻")
+    println("Not Programmer")
 }
